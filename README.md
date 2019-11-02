@@ -8,3 +8,5 @@ it's so easily!!
 - your are done
 
 this isn't already a completed project and i will update it normally suring time until becoming a B-Minor advanced compiler. wheras it's now only a lexer of language B-Minor :|
+
+> i also upload a B-Minor pdf for those wanna to know B-Minor the best
