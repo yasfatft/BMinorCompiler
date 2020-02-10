@@ -1,4 +1,4 @@
-# BMinorCompiler
+# B-Minor Compiler
 A self implementation of compiler of BMinor programming language
 ## how to use 
 it's so easily!!
