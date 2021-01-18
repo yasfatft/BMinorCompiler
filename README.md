@@ -1,4 +1,4 @@
-# B-Minor Compiler
+# B-Minor Parser
 An implementation of Parser of BMinor programming language.
 ## How to use 
 It's so easily!!
