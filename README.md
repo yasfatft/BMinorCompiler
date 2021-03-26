@@ -1,5 +1,5 @@
-# B-Minor Parser
-An C implementation of Parser of BMinor programming language.
+# B-Minor Lexer
+An C implementation of B-Minor programming language lexer.
 ## How to use 
 It's so easily!!
 - make a file that contains B-Minor codes that you want to compile (like example.b).
